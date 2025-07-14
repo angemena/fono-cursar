@@ -1,6 +1,6 @@
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Times New Roman, sans-serif;
   background-color: #f7f9fa;
   padding: 20px;
 }
@@ -42,20 +42,20 @@ h1 {
 }
 
 .completada {
-  background-color: #c8e6c9 !important;
-  border-color: #2e7d32 !important;
+  background-color: #7ac0f8 !important;
+  border-color: #1a78c2 !important;
   color: #000 !important;
 }
 
 .bloqueada {
-  background-color: #f8d7da !important;
-  border-color: #dc3545 !important;
+  background-color: #a6d5fa !important;
+  border-color: #7ac0f8 !important;
   cursor: not-allowed;
-  color: #666 !important;
+  color: #000 !important;
 }
 
 .color-1 { background-color: #2196f3; }
-.color-2 { background-color: #1e88e5; }
-.color-3 { background-color: #1976d2; }
-.color-4 { background-color: #1565c0; }
-.color-5 { background-color: #0d47a1; }
+.color-2 { background-color: #4dabf5; }
+.color-3 { background-color: #7ac0f8; }
+.color-4 { background-color: #a6d5fa; }
+.color-5 { background-color: #b9ffff; }
